@@ -1330,7 +1330,7 @@ GameObject:
   - component: {fileID: 1403770760}
   - component: {fileID: 1403770759}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Gameplay
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1350,6 +1350,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   max: 1000
   min: 1
+  guessText: {fileID: 1182655744}
 --- !u!4 &1403770760
 Transform:
   m_ObjectHideFlags: 0
